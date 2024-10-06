@@ -68,3 +68,26 @@ Web3 enthusiast<br/>
 ## Github Stats
 
 ## Connect with me 
+
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+
+  <foreignObject width="100%" height="100%">
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+
+
+  <span class="nt">&lt;style&gt;</span>
+    <span class="c">/* your CSS */</span>
+  <span class="nt">&lt;/style&gt;</span>
+
+  <span class="c">&lt;!-- your HTML --&gt;</span>
+
+<span class="nt">&lt;/div&gt;</span>
+
+
+
+</foreignObject>
+
+</svg>
+
