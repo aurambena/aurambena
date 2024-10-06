@@ -3,6 +3,15 @@
 :warning:
 Under construction
 
+## **About me**
+
+Hey! I'm Aura! :colombia:
+
+:mechanical_arm: Mechatronics engineer since 2013
+:computer: Full Stack Developer | Passionate about programming 
+:chains: Blockchain specialization in progress |
+Web3 enthusiast
+:coin: Cryptocurrencies investor
 
 ## Back-end
 <section>
