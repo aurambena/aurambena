@@ -1,7 +1,16 @@
+<style>
+	.markdown-body {
+        background-color: black;
+		
+	}
+
+</style>
+
 <h1 align=center> Hey! I'm Aura!<img src="images/colombia.png" width="25px" /></h1>
 
 ## **About me**
-:mechanical_arm: Mechatronics engineer since 2013 <br/>  
+:mechanical_arm: Mechatronics engineer 
+since 2013 <br/>  
 :computer: Full Stack Developer | Passionate about programming <br/> 
 :chains: Blockchain specialization in progress |
 Web3 enthusiast<br/> 
@@ -69,25 +78,5 @@ Web3 enthusiast<br/>
 
 ## Connect with me 
 
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 
-  <foreignObject width="100%" height="100%">
-
-    <div xmlns="http://www.w3.org/1999/xhtml">
-
-
-
-  <span class="nt">&lt;style&gt;</span>
-    <span class="c">/* your CSS */</span>
-  <span class="nt">&lt;/style&gt;</span>
-
-  <span class="c">&lt;!-- your HTML --&gt;</span>
-
-<span class="nt">&lt;/div&gt;</span>
-
-
-
-</foreignObject>
-
-</svg>
 
