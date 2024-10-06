@@ -6,7 +6,7 @@ Under construction
 
 ## Programming Languages
 <section>
-<div style="display: flex; justify-content: center">
+<div >
 <img src="images/languages/java.svg" width="200" />
 <img src="images/languages/python.svg" width="200" />
 <img src="images/languages/javascript.svg" width="200" />
