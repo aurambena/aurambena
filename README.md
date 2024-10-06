@@ -4,12 +4,12 @@
 Under construction
 
 
-## Programming Languages
+## Back-end
 <section>
 <div align='center'>
 <img src="images/languages/java.svg" width="200" />
 <img src="images/languages/python.svg" width="200" />
-<img src="images/languages/javascript.svg" width="200" />
+<img  src="images/Frameworks/django.svg" width="200"/>
 </div>
 </section>
 
@@ -20,6 +20,7 @@ Under construction
 <img src="images/Frontend/html.svg" width="200"/>
 <img src="images/Frontend/css.svg" width="200"/>
 <img src="images/languages/javascript.svg" width="200"/>
+<img src="images/languages/typescript.svg" width="200"/>
 </div>
 </section>
 
@@ -28,7 +29,7 @@ Under construction
 ## Frameworks
 <section >
 <div align='center'>
-<img style="margin-right: 50px" src="images/Frameworks/django.svg" width="200"/>
+<img style="margin-right: 100px" src="images/Frameworks/django.svg" width="200"/>
 <img src="images/Frameworks/spring.svg" width="200"/>
 </div>
 </section>
