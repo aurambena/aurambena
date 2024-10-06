@@ -1,12 +1,5 @@
-<style>
-	.markdown-body {
-        background-color: black;
-		
-	}
-
-</style>
-
 <h1 align=center> Hey! I'm Aura!<img src="images/colombia.png" width="25px" /></h1>
+
 
 ## **About me**
 :mechanical_arm: Mechatronics engineer 
