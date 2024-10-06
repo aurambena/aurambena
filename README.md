@@ -5,12 +5,12 @@ Under construction
 
 ## **About me**
 
-Hey! I'm Aura! :colombia:
+Hey! I'm Aura! <img src="images/colombia.png" width="15px" /><br/> 
 
-:mechanical_arm: Mechatronics engineer since 2013
-:computer: Full Stack Developer | Passionate about programming 
+:mechanical_arm: Mechatronics engineer since 2013 <br/> 
+:computer: Full Stack Developer | Passionate about programming <br/> 
 :chains: Blockchain specialization in progress |
-Web3 enthusiast
+Web3 enthusiast<br/> 
 :coin: Cryptocurrencies investor
 
 ## Back-end
