@@ -6,9 +6,9 @@ Under construction
 ## Programming Languages
 <section>
 <div style="display: flex; flex-direction: row;">
-<img src="images/languages/java.svg" width="100" />
-<img src="images/languages/python.svg" width="100" />
-<img src="images/languages/javascript.svg" width="100" />
+<img src="images/languages/java.svg" width="200" />
+<img src="images/languages/python.svg" width="200" />
+<img src="images/languages/javascript.svg" width="200" />
 </div>
 </section>
 
