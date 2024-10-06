@@ -1,17 +1,16 @@
-# my_profile
-
-:warning:
-Under construction
+<h1 align=center> Hey! I'm Aura!<img src="images/colombia.png" width="25px" /></h1>
 
 ## **About me**
-
-Hey! I'm Aura! <img src="images/colombia.png" width="15px" /><br/> 
-
-:mechanical_arm: Mechatronics engineer since 2013 <br/> 
+:mechanical_arm: Mechatronics engineer since 2013 <br/>  
 :computer: Full Stack Developer | Passionate about programming <br/> 
 :chains: Blockchain specialization in progress |
 Web3 enthusiast<br/> 
-:coin: Cryptocurrencies investor
+:coin: Cryptocurrencies investor<br/> 
+:desktop_computer: Constantly learning<br/> 
+
+
+ <h2 align=center>Knowledge</h2>
+
 
 ## Back-end
 <section>
@@ -64,3 +63,8 @@ Web3 enthusiast<br/>
 <img src="images/Text editors/vscode.svg" width="200"/>
 </div>
 </section>
+
+
+## Github Stats
+
+## Connect with me 
