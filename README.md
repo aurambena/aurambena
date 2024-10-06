@@ -4,24 +4,33 @@
 Under construction
 
 ## Programming Languages
-
-<img src="images/languages/java.svg" width="200" />
-<img src="images/languages/python.svg" width="200" />
-<img src="images/languages/javascript.svg" width="200" />
+<section>
+<div style="display: flex; flex-direction: row;">
+<img src="images/languages/java.svg" width="100" />
+<img src="images/languages/python.svg" width="100" />
+<img src="images/languages/javascript.svg" width="100" />
+</div>
+</section>
 
 
 _____
 
 ## Front-end
-<img src="images/Frontend/html.svg" width="200"/>
-<img src="images/Frontend/css.svg" width="200"/>
-<img src="images/languages/javascript.svg" width="200"/>
+<section align='center'>
+<div style="display: flex">
+<img src="images/Frontend/html.svg" width="100"/>
+<img src="images/Frontend/css.svg" width="100"/>
+<img src="images/languages/javascript.svg" width="100"/>
+</div>
+</section>
 
 _____
 
 ## Frameworks
-
-<img src="images/Frameworks/django.svg" width="200" margin=0px/>
+<section align='center'>
+<div style="display: flex">
+<img src="images/Frameworks/django.svg" width="100" margin=0px/>
+</section>
 
 _____
 
